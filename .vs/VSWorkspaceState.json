@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CrudMVC",
+    "\\CrudMVC\\Controllers",
+    "\\CrudMVC\\Views",
+    "\\CrudMVC\\Views\\Home",
+    "\\CrudMVC\\Views\\Shared",
+    "\\CrudMVC\\Views\\Usuarios"
+  ],
+  "SelectedNode": "\\CrudMVC\\Views\\Usuarios\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
